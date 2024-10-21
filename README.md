@@ -51,6 +51,6 @@ The following ad-hoc SQL queries will generate key insights to aid the executive
 10. **Forecast Accuracy for All Customers for a Given Fiscal Year**  
     Query to compute forecast accuracy for all customers based on sales performance.
 
-##Contact
+## Contact
 - **Nitish Thakur**  
   Email: [nitishthakur865@gmail.com](mailto:nitishthakur865@gmail.com)
